@@ -55,6 +55,11 @@ module.exports = {
     // }
   },
 
+  dashboard: {
+    host: "127.0.0.1",
+    port: 24012,
+  },
+
   // Set default mocha options here, use special reporters etc.
   mocha: {
     // timeout: 100000
